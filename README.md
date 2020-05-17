@@ -1,4 +1,4 @@
-# UdemyJavaPractice
+# MonsterGame
 This repository contains a simple game implementation in JAVA.
 
 Game Name: Monter Game. 
